@@ -1,0 +1,19 @@
+
+TRAIN COLLISION CHECK FLOW (TEXT DIAGRAM)
+
+[Start]
+   |
+   v
+[Train1 Moves]
+   |
+   v
+[Train2 Moves]
+   |
+   v
+Compare Each Compartment Position
+   |
+   v
+If match → [Collision]
+   |
+   v
+Else → [Safe]
